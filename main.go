@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("hello" + version.GetVersion())
+	fmt.Println("hello: " + version.GetVersion())
 }
