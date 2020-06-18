@@ -1,6 +1,6 @@
 package hello
 
-import version "github.com/DuC-cnZj/hello_golang/vresion"
+import version "github.com/DuC-cnZj/hello_golang/version"
 
 func Say() string {
 	return "hello go" + version.GetVersion()

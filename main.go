@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	version "github.com/DuC-cnZj/hello_golang/vresion"
+	"github.com/DuC-cnZj/hello_golang/version"
 )
 
 func main() {
